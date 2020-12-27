@@ -1,0 +1,16 @@
+C:\C#\Aula\aula28\bin\Debug\net5.0\aula28.exe
+C:\C#\Aula\aula28\bin\Debug\net5.0\aula28.deps.json
+C:\C#\Aula\aula28\bin\Debug\net5.0\aula28.runtimeconfig.json
+C:\C#\Aula\aula28\bin\Debug\net5.0\aula28.runtimeconfig.dev.json
+C:\C#\Aula\aula28\bin\Debug\net5.0\aula28.dll
+C:\C#\Aula\aula28\bin\Debug\net5.0\ref\aula28.dll
+C:\C#\Aula\aula28\bin\Debug\net5.0\aula28.pdb
+C:\C#\Aula\aula28\obj\Debug\net5.0\aula28.csprojAssemblyReference.cache
+C:\C#\Aula\aula28\obj\Debug\net5.0\aula28.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula\aula28\obj\Debug\net5.0\aula28.AssemblyInfoInputs.cache
+C:\C#\Aula\aula28\obj\Debug\net5.0\aula28.AssemblyInfo.cs
+C:\C#\Aula\aula28\obj\Debug\net5.0\aula28.csproj.CoreCompileInputs.cache
+C:\C#\Aula\aula28\obj\Debug\net5.0\aula28.dll
+C:\C#\Aula\aula28\obj\Debug\net5.0\ref\aula28.dll
+C:\C#\Aula\aula28\obj\Debug\net5.0\aula28.pdb
+C:\C#\Aula\aula28\obj\Debug\net5.0\aula28.genruntimeconfig.cache
